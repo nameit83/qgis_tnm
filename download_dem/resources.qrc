@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/download_dem" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
